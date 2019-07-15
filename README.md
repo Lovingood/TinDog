@@ -1,2 +1,1 @@
-# TinDog
-from Angela Yu
+TinDog Starting Files
